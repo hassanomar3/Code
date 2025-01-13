@@ -1,1 +1,1 @@
-This is the code that used to with arduino and PIR senseor
+This is the code that used with arduino and PIR senseor
